@@ -1,0 +1,16 @@
+//Brandon Manuel Pérez Balandrano 1603497
+
+//Práctica 3
+
+function setup() {
+    createCanvas(400,400);
+    background(255);
+}
+
+function draw() {
+    stroke(200,0,0);
+    strokeWeight(20);
+    noFill();
+    ellipse(200,200,200,200);
+    line(130,130,270,270);
+}
